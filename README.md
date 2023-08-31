@@ -1,6 +1,6 @@
 # Template for reproducible data analysis @ Minderoo OceanOmics: python version
 
-Launch analysis (Jupyter Notebook): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hobbeist/reproducibility-template-python/HEAD?filepath=index.ipynb)
+Launch analysis (Jupyter Notebook): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hobbeist/reproducibility-template-python/HEAD)
 
 This repo is taken from the [official binder GitHub](https://github.com/binder-examples/conda/tree/main)
   
