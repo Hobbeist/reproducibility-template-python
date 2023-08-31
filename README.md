@@ -2,7 +2,7 @@
 
 Launch analysis (Jupyter Notebook): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hobbeist/reproducibility-template-python/HEAD?urlpath=index.ipynb)
 
-This repo is taken from the ![official binder GitHub](https://github.com/binder-examples/conda/tree/main)
+This repo is taken from the [official binder GitHub](https://github.com/binder-examples/conda/tree/main)
   
 [![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?labelColor=000000&logo=docker)](https://www.docker.com/) [![run with singularity](https://img.shields.io/badge/run%20with-singularity-1d355c.svg?labelColor=000000)](https://sylabs.io/docs/)
 
